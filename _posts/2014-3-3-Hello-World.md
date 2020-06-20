@@ -1,6 +1,6 @@
 ---
 layout: post
-title:个人简介
+title: 个人简介
 ---
 
 NorthUniversity
