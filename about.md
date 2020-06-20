@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-a student
+A student
 
 ### More Information
 
