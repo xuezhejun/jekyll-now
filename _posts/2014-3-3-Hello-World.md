@@ -1,9 +1,11 @@
 ---
 layout: post
-title:What the fuck?
+title:个人简介
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+NorthUniversity
+软件学院
+17130109
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
